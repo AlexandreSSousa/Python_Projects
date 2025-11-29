@@ -1,0 +1,1 @@
+For this project, we used data on athletes’ performances to build a predictive machine learning model. The goal was to solve a real-world classification issue by training the model on a dataset of athlete metrics. We explored different features, selected the most relevant ones, and applied machine learning techniques to make accurate predictions.
